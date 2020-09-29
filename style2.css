@@ -1,0 +1,156 @@
+/*GENERAL*/
+
+    * {
+        box-sizing: border-box;
+        font-family: 'roboto', sans-serif;
+        
+        }
+
+    body {
+        margin: 0;
+    }
+
+    a {
+        text-decoration: none;
+        color: #ffffff;
+    }
+
+    .menu {
+        list-style: none;
+        padding-left: 0;
+        text-align: left;
+        margin-top: 0;
+    }
+
+    .btn-wrapper{
+        text-align: center;
+        margin-top: 1rem;
+    }
+
+    .title-main {
+        color: #ffffff;
+        margin-bottom: 0;
+        margin-top: 0;
+        padding-bottom: 1.3rem;
+    }
+
+    .logo {
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 1.5rem;
+    }
+
+    .img {
+        text-align: center;
+    }
+
+    .text-color {
+        color: #6C63FF;
+    }
+
+    .text-bold {
+        font-weight: bold;
+    }
+
+    #active {
+        background-color: #150ABC;
+    }
+
+/*HEADER*/
+
+    .header {
+        background-color: #6C63FF;
+        text-align: center;
+    }
+
+
+/*BODY*/
+
+    .link {
+        display: block;
+        padding: 1rem;
+        background-color:#6C63FF;
+        border-bottom: 1px solid #150ABC;
+    }
+
+    .btn {
+        display: inline-block;
+        border-radius: 20px;
+        padding: 10px;
+        font-size: 24px;
+        text-decoration: none;
+    }
+
+    .section-title {
+        text-align: center;
+    }
+
+    .page-title {
+        text-align: center;
+    }
+
+    .card-shadow {
+        text-align: left;
+        margin: 1rem;
+        margin-top: 2rem;
+        padding: 2rem;
+        box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.15);
+        border-radius: 16px;
+    }
+
+    .card-box {
+        border: 1px solid #D9D9D9;
+        border-radius: 16px;
+        text-align: left;
+        margin: 10px;
+    }
+
+    .card-title {
+        margin-top: 0;
+    }
+
+    .card-images {
+        width: 100%;
+    }
+
+    .card-question-title {
+        display: block;
+        border-top-left-radius: 16px;
+        border-top-right-radius: 16px;
+        background-color: #EBEBEB;
+        border: 1px solid #D9D9D9;
+        padding: 10px;
+        margin-top: 0;
+    }
+
+    .free-text {
+        margin: 1rem;
+        margin-top: 1.2rem;
+        margin-bottom: 1.2rem;
+    }
+
+/*FOOTER*/
+
+    .footer {
+    margin-top: 5rem;
+    background-color: #6C63FF;
+    text-align: center;
+    clear: left;
+}
+
+    .copyright {
+        color: #fff;
+        padding-top: 32px;
+        padding-bottom: 25px;
+        margin-bottom: 0;
+    }
+
+    .footer-nav {
+        text-align: left;
+        list-style: none;
+        padding: 1rem;
+    }   
+
+    .footer-link {
+        padding: 5px;
+    }

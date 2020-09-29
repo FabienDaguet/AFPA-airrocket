@@ -1,0 +1,240 @@
+/* GENERAL*/
+
+
+    * {
+        box-sizing: border-box;
+        font-family: 'roboto', sans-serif;
+        
+    }
+
+    body {
+        margin: 0;
+    }
+
+    a {
+        text-decoration: none;
+        color: #fff;
+    }
+
+    .main-title {
+        color: #fff;
+        margin-bottom: 0;
+        margin-top: 0.1rem;
+    }
+
+    .airrocket-logo {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+
+    .text-color {
+        color: #6C63FF;
+    }
+
+/*HEADER*/
+
+    .header {
+        background-color: #6C63FF;
+        text-align: center;
+    }
+
+    .header-logo {
+        padding-top: 21px;
+    }
+
+    .main {
+        padding-bottom: 21px;
+    }
+
+/*BODY*/
+
+    .ul {
+        list-style: none;
+        padding-left: 0;
+        text-align: left;
+    }
+
+    .menu {
+        background-color: #5F56EC;
+        margin-top: 0;
+    }
+
+    .link-menu {
+        display: block;
+        padding-bottom: 1rem;
+        padding-top: 1rem;
+        padding-left: 1rem;
+        border-bottom: 1px solid #150ABC;
+    }
+
+    .link-menu:hover {
+        background-color: #150ABC;
+    }
+
+    #active {
+        background-color: #150ABC;
+    }
+
+    .section-product {
+        text-align: center;
+    }
+
+    .section-title {
+        margin: 1rem 1rem;
+        text-align: left;
+    }
+
+    .product {
+        text-align: left;
+        margin: 1rem;
+        padding: 2rem;
+        box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.15);
+        border-radius: 16px;
+    }
+
+    .card-title{
+        margin-top: 0;
+    }
+
+    .page-title {
+        margin-top: 23px;
+        margin-bottom: 21px;
+    }
+
+    .card-img {
+        width: 100%;
+    }
+
+    .main-link-wrapper {
+        text-align: center;
+        margin-top: 1rem;
+    }
+
+    .main-link {
+        display: inline-block;
+        background-color:#6C63FF;
+        border-radius: 20px;
+        padding: 10px;
+        font-size: 24px;
+    }
+
+    .small-btn {
+        border-radius: 8px;
+        padding: 4px 8px;
+    }
+
+    .vacancy {
+        background-color:#6C63FF;
+    }
+
+    .full {
+        background-color: #E2E2E2;
+        color: #000000;
+    }
+
+    .dates {
+        border: 1px solid #D0D0D0;
+        border-radius: 16px;
+        margin: 1rem;
+        margin-top: 2rem;
+        margin-bottom: 4rem;
+        width: 100%;
+    }
+
+    .class-card {
+        box-shadow:0px 1px 6px rgba(0, 0, 0, 0.15);
+        border-radius: 20px;
+        margin: 1rem;
+        margin-top: 2rem;
+        padding: 1.5rem;
+    }
+
+    .li {
+        border-bottom: 1px solid #D0D0D0;
+        padding: 1rem;
+    }
+
+    .claim {
+        padding: 11px;
+    }
+
+
+    .q-a {
+        border: 1px solid #D9D9D9;
+        border-radius: 16px;
+        text-align: left;
+        margin: 10px;
+    }
+
+    .q-a-title {
+        display: block;
+        border-top-left-radius: 16px;
+        border-top-right-radius: 16px;
+        background-color: #EBEBEB;
+        border: 1px solid #D9D9D9;
+        padding: 10px;
+        margin-top: 0;
+       
+    }
+
+    .q-a-paragraph {
+        margin: 10px;
+    }
+
+    .other-questions {
+        margin: 10px;
+    }
+
+    .other-questions-title {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .price-div {
+        text-align: center;
+    }
+
+    .price {
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+   
+
+
+/*FOOTER*/
+
+
+    .footer {
+        margin-top: 5rem;
+        background-color: #6C63FF;
+        text-align: center;
+        clear: left;
+    }
+
+    .footer-link {
+        text-align: left;
+        list-style: none;
+        padding: 1rem;
+    }
+
+    .footer-link-link {
+        padding: 5px;
+    }
+
+    .footer-logo {
+        padding-top: 20px;
+    }
+
+    .footer-paragraph {
+        color: #fff;
+        padding-top: 32px;
+        padding-bottom: 25px;
+        margin-bottom: 0;
+    }
+
+
+
+
+    
